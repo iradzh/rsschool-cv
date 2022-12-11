@@ -1,7 +1,7 @@
 # Iryna Zhebryk
 ## Contact:
-email: *irinazhebrik@gmail.com*
-Github account: *@iradzh*
+email: irinazhebrik@gmail.com <br>
+Github account: @iradzh
 
 ## Education
 year   |    University
