@@ -7,6 +7,21 @@ h1, h2 {
     text-transform: uppercase;
     text-align: center; 
 }
+.job-description {
+    font-size: 1em;
+    text-align: center;
+    border-radius: 1em;
+    border: 1px dotted black;
+    padding: 0.3em 0;
+    
+}
+.table-head {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
 a {
     text-decoration: none;
     color: black; 
@@ -82,6 +97,11 @@ table {
   }
 .main-table {
     width: 50%;
+}
+.progress-bar {
+    height: 1em;
+    accent-color: grey;    
+   
 }
 
 /*-------- footer --------*/
